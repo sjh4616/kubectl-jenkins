@@ -12,6 +12,3 @@ echo \
 
 apt-get update -y
 apt-get install -y docker-ce-cli
-
-groupadd -f docker
-usermod -aG docker $USER
