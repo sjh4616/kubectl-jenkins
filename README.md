@@ -3,4 +3,4 @@ Jenkins 내부에 kubectl 설치하는 버전
 
 - git clone <리포지터리 주소>
 - cd kubectl-jenkins   
-- docker build -t jenkins:latest   
+- docker build -t jenkins:latest .   
