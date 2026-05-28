@@ -1,6 +1,4 @@
 #!/bin/bash
-set -e
-
 apt-get update -y
 apt-get install -y ca-certificates curl gnupg lsb-release
 
